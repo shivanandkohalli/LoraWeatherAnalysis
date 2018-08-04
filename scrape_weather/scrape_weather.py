@@ -5,14 +5,19 @@ import os
 
 directory = "./dump"  # To store the scraped data
 
-api_key = "" # Add your api key here
-latitude = "52.022590"
-longitude = "4.692522"
+# api_key = "99e97025416aa6fe2fbb7dc66782b328" # Add your api key here
+# api_key = "1136d591711928fbb7fa1cbec5bcaa44" # Add your api key here
+# api_key = "0e4d74eda180b6389eb52fba7706bed5"
+# api_key = "f36f04a4dd6ea608f1bb4d9c16dddd64"
+api_key = "37410daed0e82621130004aa771042f8"
+
+latitude = "-33.966891"
+longitude = "18.838625"
 
 if not os.path.exists(directory):
 	os.makedirs(directory)
-date = datetime.datetime(2017,02,1)
-for i in range(450): 
+date = datetime.datetime(2017,1,12)
+for i in range(500):
     date += datetime.timedelta(days=1)
     epoch = calendar.timegm(date.timetuple())
     file = open(directory + "/" + str(epoch), "w")

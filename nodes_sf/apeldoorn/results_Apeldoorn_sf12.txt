@@ -1,0 +1,4 @@
+Correlation: Temperature, Humidity, Pressure, Windspeed
+-0.471603376399 -0.483345538018 -0.946475658852 -0.86221170234
+Range of data: Temperature, Humidity, Pressure, Windspeed
+1.56666666667 18.25 0.58 0.88 1007.18 1033.28 0.52 5.28

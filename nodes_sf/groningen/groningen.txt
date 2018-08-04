@@ -1,0 +1,549 @@
+1424030,2017-04-26 17:03:35,my_uno,9934-1,008000000000AA8A,,SF8BW125,-5.80,-120.00,868.100,53.214859,6.603274,47.0,6.07,,,fused,Android7.0 App27:2017.04.01
+1424031,2017-04-26 17:03:38,my_uno,9934-1,008000000000A43F,,SF8BW125,-3.50,-117.00,867.900,53.214859,6.603274,47.0,6.07,,,fused,Android7.0 App27:2017.04.01
+1424032,2017-04-26 17:03:49,my_uno,9934-1,tbdev-lorank8,,SF8BW125,-7.20,-118.00,867.500,53.214333,6.600890,43.0,6.07,,,fused,Android7.0 App27:2017.04.01
+2621800,2017-09-08 09:32:52,sadoq-one,location,tbdev-tbb-groningen,,SF9BW125,-0.25,-111.00,868.500,53.214585,6.600863,13.0,2.00,,,joris_binary,mqtt import v2
+2720999,2017-09-23 15:40:45,sadoq-one,location,tbdev-tbb-groningen,,SF9BW125,-6.25,-121.00,868.300,53.214789,6.602515,0.0,2.20,,,joris_binary,mqtt import v2
+2877967,2017-10-12 16:04:39,explorer,explorer_a3,tbdev-tbb-groningen,,SF7BW125,-1.75,-119.00,868.100,53.214517,6.601920,-16.1,5.20,,,fused,Android4.4.2 App28:2017.06.13
+2877968,2017-10-12 16:04:39,explorer,explorer_a3,1DEE140FF63441E5,,SF7BW125,-0.50,-113.00,868.100,53.214517,6.601920,-16.1,5.20,,,fused,Android4.4.2 App28:2017.06.13
+4001463,2018-02-14 08:02:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,6.75,-112.00,868.100,53.214686,6.605640,47.0,13.00,,,fused,Android6.0.1 App29:2017.10.18
+4001464,2018-02-14 08:02:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-1.50,-112.00,868.100,53.214686,6.605640,47.0,13.00,,,fused,Android6.0.1 App29:2017.10.18
+4001491,2018-02-14 08:04:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,-0.50,-119.00,867.100,53.214688,6.605615,47.0,13.00,,,fused,Android6.0.1 App29:2017.10.18
+4001492,2018-02-14 08:04:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-3.50,-114.00,867.100,53.214688,6.605615,47.0,13.00,,,fused,Android6.0.1 App29:2017.10.18
+4001512,2018-02-14 08:06:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,1.25,-111.00,868.300,53.214690,6.605602,47.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001535,2018-02-14 08:08:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,0.50,-109.00,867.300,53.214688,6.605498,48.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001548,2018-02-14 08:10:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-12.00,-106.00,868.500,53.214683,6.605412,50.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001549,2018-02-14 08:10:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,0.75,-115.00,868.500,53.214683,6.605412,50.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001561,2018-02-14 08:12:42,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,0.20,-112.00,867.500,53.214685,6.605385,50.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001562,2018-02-14 08:12:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,-8.75,-106.00,867.500,53.214685,6.605385,50.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001574,2018-02-14 08:14:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,5.25,-114.00,868.100,53.214694,6.605375,50.0,8.00,,,fused,Android6.0.1 App29:2017.10.18
+4001575,2018-02-14 08:14:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-2.20,-113.00,868.100,53.214694,6.605375,50.0,8.00,,,fused,Android6.0.1 App29:2017.10.18
+4001598,2018-02-14 08:16:52,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,4.25,-111.00,867.700,53.214686,6.605383,49.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001599,2018-02-14 08:16:52,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-1.00,-110.00,867.700,53.214686,6.605383,49.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001625,2018-02-14 08:18:57,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,-1.75,-114.00,868.300,53.214672,6.605386,49.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001626,2018-02-14 08:18:57,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-3.00,-109.00,868.300,53.214672,6.605386,49.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001644,2018-02-14 08:21:02,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-4.00,-114.00,867.900,53.214661,6.605373,49.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001645,2018-02-14 08:21:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,6.00,-113.00,867.900,53.214661,6.605373,49.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001659,2018-02-14 08:23:07,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,2.00,-112.00,868.500,53.214493,6.605322,31.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001694,2018-02-14 08:25:12,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,3.25,-114.00,867.100,53.214494,6.605321,31.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001695,2018-02-14 08:25:12,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,1.20,-111.00,867.100,53.214494,6.605321,31.0,10.00,,,fused,Android6.0.1 App29:2017.10.18
+4001745,2018-02-14 08:27:16,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,4.50,-115.00,868.100,53.214496,6.605322,32.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001746,2018-02-14 08:27:16,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-1.80,-114.00,868.100,53.214496,6.605322,32.0,11.00,,,fused,Android6.0.1 App29:2017.10.18
+4001776,2018-02-14 08:29:21,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-0.80,-113.00,867.300,53.214622,6.605541,28.0,9.00,,,fused,Android6.0.1 App29:2017.10.18
+4001799,2018-02-14 08:31:26,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,3.50,-113.00,868.300,53.214620,6.605534,28.0,12.00,,,fused,Android6.0.1 App29:2017.10.18
+4001800,2018-02-14 08:31:26,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-4.20,-109.00,868.300,53.214620,6.605534,28.0,12.00,,,fused,Android6.0.1 App29:2017.10.18
+4004723,2018-02-14 17:45:06,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF8BW125,-11.80,-107.00,868.500,53.214452,6.606163,52.0,3.00,,,fused,Android6.0.1 App29:2017.10.18
+4004724,2018-02-14 17:45:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF8BW125,-5.25,-119.00,868.500,53.214452,6.606163,52.0,3.00,,,fused,Android6.0.1 App29:2017.10.18
+4012055,2018-02-15 09:30:22,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF10BW125,-10.50,-109.00,868.300,53.214697,6.605765,39.9,18.83,,,fused,Android6.0.1 App29:2017.10.18
+4012056,2018-02-15 09:30:22,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF10BW125,1.25,-114.00,868.300,53.214697,6.605765,39.9,18.83,,,fused,Android6.0.1 App29:2017.10.18
+4015488,2018-02-15 17:01:00,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF10BW125,-16.00,-113.00,868.300,53.214694,6.605754,39.9,12.59,,,fused,Android6.0.1 App29:2017.10.18
+4015489,2018-02-15 17:01:00,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF10BW125,-8.25,-119.00,868.300,53.214694,6.605754,39.9,12.59,,,fused,Android6.0.1 App29:2017.10.18
+4015603,2018-02-15 17:15:36,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF10BW125,-10.50,-119.00,868.100,53.214336,6.606145,30.0,4.00,,,fused,Android6.0.1 App29:2017.10.18
+4015604,2018-02-15 17:15:36,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF10BW125,-11.50,-117.00,868.100,53.214336,6.606145,30.0,4.00,,,fused,Android6.0.1 App29:2017.10.18
+4085760,2018-02-19 11:53:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF7BW125,1.50,-109.00,867.500,53.214704,6.605746,40.6,12.94,,,fused,Android6.0.1 App29:2017.10.18
+4085793,2018-02-19 11:59:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF7BW125,-2.25,-120.00,868.100,53.214697,6.605763,40.6,19.63,,,fused,Android6.0.1 App29:2017.10.18
+4085794,2018-02-19 11:59:32,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF7BW125,-1.00,-109.00,868.100,53.214697,6.605763,40.6,19.63,,,fused,Android6.0.1 App29:2017.10.18
+4461466,2018-03-08 08:06:20,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.25,-117.00,867.700,53.214600,6.605600,1.8,,1.0,,HDOP,ttn_http_integration_v2
+4461538,2018-03-08 08:10:30,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.00,-117.00,868.100,53.214600,6.605700,6.2,,1.0,,HDOP,ttn_http_integration_v2
+4461582,2018-03-08 08:12:35,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.50,-117.00,867.900,53.214600,6.605700,9.5,,1.2,,HDOP,ttn_http_integration_v2
+4461638,2018-03-08 08:14:39,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-7.75,-108.00,868.300,53.214600,6.605700,8.7,,1.2,,HDOP,ttn_http_integration_v2
+4461716,2018-03-08 08:18:49,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-4.25,-118.00,867.100,53.214600,6.605700,2.7,,1.0,,HDOP,ttn_http_integration_v2
+4461766,2018-03-08 08:22:59,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-7.00,-112.00,868.300,53.214800,6.605700,1.6,,0.9,,HDOP,ttn_http_integration_v2
+4461790,2018-03-08 08:25:04,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.50,-113.00,867.300,53.214700,6.605700,3.1,,1.4,,HDOP,ttn_http_integration_v2
+4463628,2018-03-08 09:21:19,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.50,-119.00,867.100,53.214700,6.605600,1.3,,1.5,,HDOP,ttn_http_integration_v2
+4463723,2018-03-08 09:23:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-15.50,-106.00,868.500,53.214600,6.605500,1.0,,2.6,,HDOP,ttn_http_integration_v2
+4463926,2018-03-08 09:27:34,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.80,-113.00,867.300,53.214700,6.605200,0.4,,2.6,,HDOP,ttn_http_integration_v2
+4464452,2018-03-08 09:37:59,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.50,-107.00,868.300,53.214400,6.605400,4.5,,1.8,,HDOP,ttn_http_integration_v2
+4464549,2018-03-08 09:40:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.20,-113.00,867.700,53.214500,6.605400,1.9,,1.3,,HDOP,ttn_http_integration_v2
+4464550,2018-03-08 09:40:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.50,-114.00,867.700,53.214500,6.605400,1.9,,1.3,,HDOP,ttn_http_integration_v2
+4464760,2018-03-08 09:44:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.75,-115.00,868.100,53.214500,6.605300,3.6,,1.1,,HDOP,ttn_http_integration_v2
+4464863,2018-03-08 09:46:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.00,-113.00,867.900,53.214600,6.605300,19.5,,1.7,,HDOP,ttn_http_integration_v2
+4464864,2018-03-08 09:46:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.00,-120.00,867.900,53.214600,6.605300,19.5,,1.7,,HDOP,ttn_http_integration_v2
+4464963,2018-03-08 09:48:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.50,-111.00,868.300,53.214600,6.605400,11.2,,1.0,,HDOP,ttn_http_integration_v2
+4464964,2018-03-08 09:48:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-109.00,868.300,53.214600,6.605400,11.2,,1.0,,HDOP,ttn_http_integration_v2
+4465138,2018-03-08 09:50:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.00,-108.00,868.500,53.214600,6.605300,5.2,,1.1,,HDOP,ttn_http_integration_v2
+4465139,2018-03-08 09:50:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-5.75,-115.00,868.500,53.214600,6.605300,5.2,,1.1,,HDOP,ttn_http_integration_v2
+4465304,2018-03-08 09:52:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.80,-113.00,867.100,53.214600,6.605400,0.8,,1.7,,HDOP,ttn_http_integration_v2
+4465305,2018-03-08 09:52:33,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.50,-111.00,867.100,53.214600,6.605400,0.8,,1.7,,HDOP,ttn_http_integration_v2
+4465460,2018-03-08 09:54:38,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.00,-111.00,868.100,53.214500,6.605200,17.7,,1.8,,HDOP,ttn_http_integration_v2
+4465461,2018-03-08 09:54:38,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.75,-117.00,868.100,53.214500,6.605200,17.7,,1.8,,HDOP,ttn_http_integration_v2
+4465640,2018-03-08 09:56:43,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.00,-111.00,868.300,53.214600,6.605200,29.3,,1.7,,HDOP,ttn_http_integration_v2
+4465641,2018-03-08 09:56:43,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.00,-115.00,868.300,53.214600,6.605200,29.3,,1.7,,HDOP,ttn_http_integration_v2
+4465861,2018-03-08 09:58:48,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-111.00,867.300,53.214700,6.605400,15.4,,1.6,,HDOP,ttn_http_integration_v2
+4465862,2018-03-08 09:58:48,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.25,-113.00,867.300,53.214700,6.605400,15.4,,1.6,,HDOP,ttn_http_integration_v2
+4466060,2018-03-08 10:00:53,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.20,-108.00,868.500,53.214600,6.605300,7.4,,1.6,,HDOP,ttn_http_integration_v2
+4466182,2018-03-08 10:02:58,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-109.00,868.100,53.214600,6.605400,7.9,,1.7,,HDOP,ttn_http_integration_v2
+4466183,2018-03-08 10:02:58,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.25,-114.00,868.100,53.214600,6.605400,7.9,,1.7,,HDOP,ttn_http_integration_v2
+4466332,2018-03-08 10:05:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-109.00,867.500,53.214600,6.605500,3.1,,1.7,,HDOP,ttn_http_integration_v2
+4466510,2018-03-08 10:07:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.50,-109.00,868.300,53.214600,6.605500,7.8,,1.7,,HDOP,ttn_http_integration_v2
+4466511,2018-03-08 10:07:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.00,-113.00,868.300,53.214600,6.605500,7.8,,1.7,,HDOP,ttn_http_integration_v2
+4466688,2018-03-08 10:09:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.20,-107.00,868.500,53.214700,6.605300,9.5,,1.6,,HDOP,ttn_http_integration_v2
+4466689,2018-03-08 10:09:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-6.00,-115.00,868.500,53.214700,6.605300,9.5,,1.6,,HDOP,ttn_http_integration_v2
+4466788,2018-03-08 10:11:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.00,-113.00,867.700,53.214700,6.605300,11.3,,4.2,,HDOP,ttn_http_integration_v2
+4466789,2018-03-08 10:11:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.25,-117.00,867.700,53.214700,6.605300,11.3,,4.2,,HDOP,ttn_http_integration_v2
+4466846,2018-03-08 10:13:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.00,-111.00,868.100,53.214600,6.605300,5.8,,1.4,,HDOP,ttn_http_integration_v2
+4466847,2018-03-08 10:13:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-117.00,868.100,53.214600,6.605300,5.8,,1.4,,HDOP,ttn_http_integration_v2
+4466927,2018-03-08 10:15:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.50,-109.00,868.300,53.214600,6.605400,3.0,,1.5,,HDOP,ttn_http_integration_v2
+4466928,2018-03-08 10:15:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-4.50,-108.00,868.300,53.214600,6.605400,3.0,,1.5,,HDOP,ttn_http_integration_v2
+4467031,2018-03-08 10:17:33,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.50,-118.00,867.900,53.214700,6.605400,6.3,,1.4,,HDOP,ttn_http_integration_v2
+4467032,2018-03-08 10:17:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.00,-114.00,867.900,53.214700,6.605400,6.3,,1.4,,HDOP,ttn_http_integration_v2
+4467090,2018-03-08 10:19:38,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.50,-108.00,868.500,53.214600,6.605300,6.5,,1.4,,HDOP,ttn_http_integration_v2
+4467091,2018-03-08 10:19:38,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.75,-115.00,868.500,53.214600,6.605300,6.5,,1.4,,HDOP,ttn_http_integration_v2
+4467335,2018-03-08 10:25:53,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.50,-111.00,868.300,53.214500,6.605400,1.5,,1.3,,HDOP,ttn_http_integration_v2
+4467336,2018-03-08 10:25:53,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.50,-107.00,868.300,53.214500,6.605400,1.5,,1.3,,HDOP,ttn_http_integration_v2
+4467491,2018-03-08 10:30:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.20,-111.00,867.300,53.214600,6.605400,0.4,,1.2,,HDOP,ttn_http_integration_v2
+4467564,2018-03-08 10:32:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.00,-113.00,868.100,53.214500,6.605300,9.4,,1.2,,HDOP,ttn_http_integration_v2
+4467565,2018-03-08 10:32:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.50,-115.00,868.100,53.214500,6.605300,9.4,,1.2,,HDOP,ttn_http_integration_v2
+4467631,2018-03-08 10:34:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-109.00,868.300,53.214700,6.605300,11.6,,1.2,,HDOP,ttn_http_integration_v2
+4467632,2018-03-08 10:34:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.00,-108.00,868.300,53.214700,6.605300,11.6,,1.2,,HDOP,ttn_http_integration_v2
+4467701,2018-03-08 10:36:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.25,-113.00,867.500,53.214600,6.605300,10.7,,1.2,,HDOP,ttn_http_integration_v2
+4467702,2018-03-08 10:36:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.80,-111.00,867.500,53.214600,6.605300,10.7,,1.2,,HDOP,ttn_http_integration_v2
+4467770,2018-03-08 10:38:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.80,-108.00,868.500,53.214700,6.605300,15.3,,3.6,,HDOP,ttn_http_integration_v2
+4467771,2018-03-08 10:38:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.25,-111.00,868.500,53.214700,6.605300,15.3,,3.6,,HDOP,ttn_http_integration_v2
+4467823,2018-03-08 10:40:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.80,-113.00,868.100,53.214500,6.605300,17.1,,1.2,,HDOP,ttn_http_integration_v2
+4467824,2018-03-08 10:40:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-112.00,868.100,53.214500,6.605300,17.1,,1.2,,HDOP,ttn_http_integration_v2
+4467883,2018-03-08 10:42:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.20,-109.00,867.700,53.214500,6.605300,17.8,,1.2,,HDOP,ttn_http_integration_v2
+4467941,2018-03-08 10:44:38,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-107.00,868.300,53.214600,6.605300,10.1,,1.1,,HDOP,ttn_http_integration_v2
+4467942,2018-03-08 10:44:38,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.25,-113.00,868.300,53.214600,6.605300,10.1,,1.1,,HDOP,ttn_http_integration_v2
+4468005,2018-03-08 10:46:42,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.80,-107.00,868.500,53.214500,6.605200,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4468006,2018-03-08 10:46:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.00,-113.00,868.500,53.214500,6.605200,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4468085,2018-03-08 10:48:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.20,-113.00,867.900,53.214600,6.605400,7.8,,1.0,,HDOP,ttn_http_integration_v2
+4468086,2018-03-08 10:48:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.00,-117.00,867.900,53.214600,6.605400,7.8,,1.0,,HDOP,ttn_http_integration_v2
+4468190,2018-03-08 10:50:52,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-110.00,868.100,53.214600,6.605500,3.2,,1.1,,HDOP,ttn_http_integration_v2
+4468191,2018-03-08 10:50:52,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.25,-113.00,868.100,53.214600,6.605500,3.2,,1.1,,HDOP,ttn_http_integration_v2
+4468260,2018-03-08 10:52:57,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.20,-109.00,868.300,53.214600,6.605500,9.2,,1.0,,HDOP,ttn_http_integration_v2
+4468261,2018-03-08 10:52:57,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.75,-108.00,868.300,53.214600,6.605500,9.2,,1.0,,HDOP,ttn_http_integration_v2
+4468313,2018-03-08 10:55:02,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-113.00,867.100,53.214800,6.605400,9.1,,1.1,,HDOP,ttn_http_integration_v2
+4468314,2018-03-08 10:55:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,7.25,-109.00,867.100,53.214800,6.605400,9.1,,1.1,,HDOP,ttn_http_integration_v2
+4468403,2018-03-08 10:57:07,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.20,-106.00,868.500,53.214600,6.605500,9.6,,1.0,,HDOP,ttn_http_integration_v2
+4468404,2018-03-08 10:57:07,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.50,-112.00,868.500,53.214600,6.605500,9.6,,1.0,,HDOP,ttn_http_integration_v2
+4468474,2018-03-08 10:59:12,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.80,-113.00,868.100,53.214700,6.605500,7.6,,1.0,,HDOP,ttn_http_integration_v2
+4468475,2018-03-08 10:59:12,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.75,-112.00,868.100,53.214700,6.605500,7.6,,1.0,,HDOP,ttn_http_integration_v2
+4468544,2018-03-08 11:01:17,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.50,-113.00,867.300,53.214600,6.605600,1.2,,1.0,,HDOP,ttn_http_integration_v2
+4468618,2018-03-08 11:03:22,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.20,-109.00,868.300,53.214600,6.605300,7.4,,1.0,,HDOP,ttn_http_integration_v2
+4468619,2018-03-08 11:03:22,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.50,-113.00,868.300,53.214600,6.605300,7.4,,1.0,,HDOP,ttn_http_integration_v2
+4468844,2018-03-08 11:07:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.75,-118.00,867.500,53.214600,6.605600,10.7,,1.0,,HDOP,ttn_http_integration_v2
+4468953,2018-03-08 11:09:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.50,-112.00,868.100,53.214600,6.605500,11.6,,0.9,,HDOP,ttn_http_integration_v2
+4468954,2018-03-08 11:09:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.75,-114.00,868.100,53.214600,6.605500,11.6,,0.9,,HDOP,ttn_http_integration_v2
+4469018,2018-03-08 11:11:42,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.50,-107.00,868.300,53.214600,6.605500,5.0,,0.9,,HDOP,ttn_http_integration_v2
+4469019,2018-03-08 11:11:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.00,-112.00,868.300,53.214600,6.605500,5.0,,0.9,,HDOP,ttn_http_integration_v2
+4469081,2018-03-08 11:13:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-113.00,867.700,53.214500,6.605400,5.8,,1.0,,HDOP,ttn_http_integration_v2
+4469082,2018-03-08 11:13:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.50,-119.00,867.700,53.214500,6.605400,5.8,,1.0,,HDOP,ttn_http_integration_v2
+4469351,2018-03-08 11:22:07,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.75,-99.00,868.300,53.214600,6.605400,1.2,,1.3,,HDOP,ttn_http_integration_v2
+4469416,2018-03-08 11:24:12,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.50,-108.00,868.500,53.214600,6.605700,4.7,,1.6,,HDOP,ttn_http_integration_v2
+4469417,2018-03-08 11:24:12,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.75,-114.00,868.500,53.214600,6.605700,4.7,,1.6,,HDOP,ttn_http_integration_v2
+4469480,2018-03-08 11:26:17,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-110.00,867.100,53.214600,6.605500,8.3,,1.1,,HDOP,ttn_http_integration_v2
+4469481,2018-03-08 11:26:17,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,7.00,-111.00,867.100,53.214600,6.605500,8.3,,1.1,,HDOP,ttn_http_integration_v2
+4469545,2018-03-08 11:28:22,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.00,-113.00,868.100,53.214700,6.605500,5.3,,1.1,,HDOP,ttn_http_integration_v2
+4469546,2018-03-08 11:28:22,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.75,-117.00,868.100,53.214700,6.605500,5.3,,1.1,,HDOP,ttn_http_integration_v2
+4469617,2018-03-08 11:30:27,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.80,-111.00,868.300,53.214600,6.605500,6.7,,1.1,,HDOP,ttn_http_integration_v2
+4469618,2018-03-08 11:30:27,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-111.00,868.300,53.214600,6.605500,6.7,,1.1,,HDOP,ttn_http_integration_v2
+4469680,2018-03-08 11:32:32,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-113.00,867.300,53.214600,6.605600,8.2,,1.1,,HDOP,ttn_http_integration_v2
+4469746,2018-03-08 11:34:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-12.00,-107.00,868.500,53.214600,6.605400,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4469747,2018-03-08 11:34:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.25,-115.00,868.500,53.214600,6.605400,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4469816,2018-03-08 11:36:42,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.20,-113.00,868.100,53.214600,6.605400,9.2,,1.1,,HDOP,ttn_http_integration_v2
+4469817,2018-03-08 11:36:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.25,-117.00,868.100,53.214600,6.605400,9.2,,1.1,,HDOP,ttn_http_integration_v2
+4469913,2018-03-08 11:38:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.20,-112.00,867.500,53.214500,6.605500,1.6,,1.5,,HDOP,ttn_http_integration_v2
+4469989,2018-03-08 11:40:52,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.20,-106.00,868.300,53.214800,6.605200,4.8,,1.5,,HDOP,ttn_http_integration_v2
+4470053,2018-03-08 11:42:57,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.00,-105.00,868.500,53.214600,6.605400,9.2,,1.5,,HDOP,ttn_http_integration_v2
+4470054,2018-03-08 11:42:57,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-8.75,-115.00,868.500,53.214600,6.605400,9.2,,1.5,,HDOP,ttn_http_integration_v2
+4470139,2018-03-08 11:45:02,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.80,-113.00,867.700,53.214700,6.605400,7.7,,1.0,,HDOP,ttn_http_integration_v2
+4470140,2018-03-08 11:45:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.00,-114.00,867.700,53.214700,6.605400,7.7,,1.0,,HDOP,ttn_http_integration_v2
+4470224,2018-03-08 11:47:07,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-113.00,868.100,53.214700,6.605300,12.6,,1.0,,HDOP,ttn_http_integration_v2
+4470225,2018-03-08 11:47:07,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-117.00,868.100,53.214700,6.605300,12.6,,1.0,,HDOP,ttn_http_integration_v2
+4470323,2018-03-08 11:49:12,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.00,-108.00,868.300,53.214600,6.605300,14.8,,1.0,,HDOP,ttn_http_integration_v2
+4470402,2018-03-08 11:51:17,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.00,-111.00,867.900,53.214600,6.605400,4.1,,1.0,,HDOP,ttn_http_integration_v2
+4470403,2018-03-08 11:51:17,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.75,-119.00,867.900,53.214600,6.605400,4.1,,1.0,,HDOP,ttn_http_integration_v2
+4470703,2018-03-08 11:59:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-111.00,868.300,53.214600,6.605400,3.6,,2.1,,HDOP,ttn_http_integration_v2
+4470704,2018-03-08 11:59:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.00,-114.00,868.300,53.214600,6.605400,3.6,,2.1,,HDOP,ttn_http_integration_v2
+4470764,2018-03-08 12:01:41,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.00,-108.00,868.500,53.214600,6.605500,3.5,,2.1,,HDOP,ttn_http_integration_v2
+4470765,2018-03-08 12:01:41,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.25,-111.00,868.500,53.214600,6.605500,3.5,,2.1,,HDOP,ttn_http_integration_v2
+4470881,2018-03-08 12:03:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.00,-111.00,867.300,53.214600,6.605500,0.4,,2.0,,HDOP,ttn_http_integration_v2
+4470954,2018-03-08 12:05:51,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.00,-114.00,868.100,53.214600,6.605500,1.4,,4.2,,HDOP,ttn_http_integration_v2
+4470955,2018-03-08 12:05:51,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.25,-119.00,868.100,53.214600,6.605500,1.4,,4.2,,HDOP,ttn_http_integration_v2
+4471038,2018-03-08 12:07:57,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-109.00,868.300,53.214600,6.605500,0.4,,1.9,,HDOP,ttn_http_integration_v2
+4471039,2018-03-08 12:07:57,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.50,-113.00,868.300,53.214600,6.605500,0.4,,1.9,,HDOP,ttn_http_integration_v2
+4471109,2018-03-08 12:10:01,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-11.75,-101.00,867.500,53.214600,6.605500,1.8,,1.9,,HDOP,ttn_http_integration_v2
+4471110,2018-03-08 12:10:01,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.20,-113.00,867.500,53.214600,6.605500,1.8,,1.9,,HDOP,ttn_http_integration_v2
+4471188,2018-03-08 12:12:06,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.80,-108.00,868.500,53.214600,6.605400,6.6,,3.9,,HDOP,ttn_http_integration_v2
+4471189,2018-03-08 12:12:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.75,-113.00,868.500,53.214600,6.605400,6.6,,3.9,,HDOP,ttn_http_integration_v2
+4471270,2018-03-08 12:14:11,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.20,-111.00,868.100,53.214500,6.605500,5.1,,1.8,,HDOP,ttn_http_integration_v2
+4471271,2018-03-08 12:14:11,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.00,-113.00,868.100,53.214500,6.605500,5.1,,1.8,,HDOP,ttn_http_integration_v2
+4471381,2018-03-08 12:16:16,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.50,-114.00,867.700,53.214600,6.605500,7.1,,1.8,,HDOP,ttn_http_integration_v2
+4471382,2018-03-08 12:16:16,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.25,-115.00,867.700,53.214600,6.605500,7.1,,1.8,,HDOP,ttn_http_integration_v2
+4471458,2018-03-08 12:18:21,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-10.20,-108.00,868.300,53.214600,6.605600,5.4,,1.8,,HDOP,ttn_http_integration_v2
+4471459,2018-03-08 12:18:21,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.50,-114.00,868.300,53.214600,6.605600,5.4,,1.8,,HDOP,ttn_http_integration_v2
+4471549,2018-03-08 12:20:26,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-108.00,868.500,53.214700,6.605500,9.1,,1.8,,HDOP,ttn_http_integration_v2
+4471550,2018-03-08 12:20:26,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.00,-109.00,868.500,53.214700,6.605500,9.1,,1.8,,HDOP,ttn_http_integration_v2
+4471641,2018-03-08 12:22:31,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.00,-114.00,867.900,53.214600,6.605400,3.9,,1.6,,HDOP,ttn_http_integration_v2
+4471642,2018-03-08 12:22:31,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-8.50,-120.00,867.900,53.214600,6.605400,3.9,,1.6,,HDOP,ttn_http_integration_v2
+4471739,2018-03-08 12:24:36,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.80,-113.00,868.100,53.214600,6.605500,0.5,,1.6,,HDOP,ttn_http_integration_v2
+4471740,2018-03-08 12:24:36,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.00,-115.00,868.100,53.214600,6.605500,0.5,,1.6,,HDOP,ttn_http_integration_v2
+4471832,2018-03-08 12:26:41,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-111.00,868.300,53.214600,6.605400,0.9,,1.6,,HDOP,ttn_http_integration_v2
+4471833,2018-03-08 12:26:41,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.25,-108.00,868.300,53.214600,6.605400,0.9,,1.6,,HDOP,ttn_http_integration_v2
+4471965,2018-03-08 12:28:46,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-113.00,867.100,53.214600,6.605400,11.6,,1.6,,HDOP,ttn_http_integration_v2
+4471966,2018-03-08 12:28:46,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-117.00,867.100,53.214600,6.605400,11.6,,1.6,,HDOP,ttn_http_integration_v2
+4472074,2018-03-08 12:30:51,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.00,-115.00,868.500,53.214700,6.605600,11.8,,1.7,,HDOP,ttn_http_integration_v2
+4472172,2018-03-08 12:32:56,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-112.00,868.100,53.214600,6.605500,14.0,,1.7,,HDOP,ttn_http_integration_v2
+4472173,2018-03-08 12:32:56,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.25,-111.00,868.100,53.214600,6.605500,14.0,,1.7,,HDOP,ttn_http_integration_v2
+4472276,2018-03-08 12:35:01,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.80,-109.00,867.300,53.214600,6.605600,14.1,,1.7,,HDOP,ttn_http_integration_v2
+4472391,2018-03-08 12:37:06,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.00,-111.00,868.300,53.214700,6.605600,16.8,,1.7,,HDOP,ttn_http_integration_v2
+4472392,2018-03-08 12:37:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.00,-115.00,868.300,53.214700,6.605600,16.8,,1.7,,HDOP,ttn_http_integration_v2
+4472489,2018-03-08 12:39:11,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-108.00,868.500,53.214600,6.605500,20.5,,1.8,,HDOP,ttn_http_integration_v2
+4472490,2018-03-08 12:39:11,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.00,-114.00,868.500,53.214600,6.605500,20.5,,1.8,,HDOP,ttn_http_integration_v2
+4472575,2018-03-08 12:41:16,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.50,-100.00,867.500,53.214600,6.605500,14.1,,4.2,,HDOP,ttn_http_integration_v2
+4472657,2018-03-08 12:43:21,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.00,-115.00,868.100,53.214600,6.605500,11.2,,1.8,,HDOP,ttn_http_integration_v2
+4472658,2018-03-08 12:43:21,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.25,-113.00,868.100,53.214600,6.605500,11.2,,1.8,,HDOP,ttn_http_integration_v2
+4472767,2018-03-08 12:45:26,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.80,-107.00,868.300,53.214500,6.605400,9.7,,3.6,,HDOP,ttn_http_integration_v2
+4472849,2018-03-08 12:47:31,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.50,-113.00,867.700,53.214600,6.605600,6.7,,1.7,,HDOP,ttn_http_integration_v2
+4472850,2018-03-08 12:47:31,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-115.00,867.700,53.214600,6.605600,6.7,,1.7,,HDOP,ttn_http_integration_v2
+4473380,2018-03-08 12:57:56,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.00,-108.00,868.500,53.214600,6.605600,3.0,,1.2,,HDOP,ttn_http_integration_v2
+4473381,2018-03-08 12:57:56,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.50,-115.00,868.500,53.214600,6.605600,3.0,,1.2,,HDOP,ttn_http_integration_v2
+4473469,2018-03-08 13:00:01,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.20,-114.00,867.100,53.214600,6.605500,5.2,,1.0,,HDOP,ttn_http_integration_v2
+4473470,2018-03-08 13:00:01,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-115.00,867.100,53.214600,6.605500,5.2,,1.0,,HDOP,ttn_http_integration_v2
+4473547,2018-03-08 13:02:06,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-114.00,868.100,53.214700,6.605600,4.9,,1.2,,HDOP,ttn_http_integration_v2
+4473548,2018-03-08 13:02:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.75,-111.00,868.100,53.214700,6.605600,4.9,,1.2,,HDOP,ttn_http_integration_v2
+4473636,2018-03-08 13:04:11,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.20,-109.00,868.300,53.214600,6.605500,7.3,,1.3,,HDOP,ttn_http_integration_v2
+4473637,2018-03-08 13:04:11,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-112.00,868.300,53.214600,6.605500,7.3,,1.3,,HDOP,ttn_http_integration_v2
+4473716,2018-03-08 13:06:16,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-112.00,867.300,53.214600,6.605500,9.6,,1.3,,HDOP,ttn_http_integration_v2
+4473809,2018-03-08 13:08:21,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.80,-108.00,868.500,53.214600,6.605500,7.5,,1.5,,HDOP,ttn_http_integration_v2
+4473810,2018-03-08 13:08:21,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.75,-112.00,868.500,53.214600,6.605500,7.5,,1.5,,HDOP,ttn_http_integration_v2
+4473893,2018-03-08 13:10:26,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-110.00,868.100,53.214600,6.605600,1.2,,1.3,,HDOP,ttn_http_integration_v2
+4473894,2018-03-08 13:10:26,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.25,-117.00,868.100,53.214600,6.605600,1.2,,1.3,,HDOP,ttn_http_integration_v2
+4474441,2018-03-08 13:22:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-10.80,-108.00,868.300,53.214600,6.605500,0.8,,1.4,,HDOP,ttn_http_integration_v2
+4474442,2018-03-08 13:22:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.50,-113.00,868.300,53.214600,6.605500,0.8,,1.4,,HDOP,ttn_http_integration_v2
+4475667,2018-03-08 13:45:50,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.50,-111.00,868.500,53.214600,6.605600,2.3,,1.9,,HDOP,ttn_http_integration_v2
+4475766,2018-03-08 13:47:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.20,-114.00,868.100,53.214600,6.605400,5.6,,1.4,,HDOP,ttn_http_integration_v2
+4475767,2018-03-08 13:47:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.00,-115.00,868.100,53.214600,6.605400,5.6,,1.4,,HDOP,ttn_http_integration_v2
+4475856,2018-03-08 13:50:00,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.20,-112.00,867.700,53.214600,6.605500,6.5,,1.5,,HDOP,ttn_http_integration_v2
+4475857,2018-03-08 13:50:00,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.00,-114.00,867.700,53.214600,6.605500,6.5,,1.5,,HDOP,ttn_http_integration_v2
+4475955,2018-03-08 13:52:05,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.80,-106.00,868.300,53.214700,6.605400,7.4,,1.4,,HDOP,ttn_http_integration_v2
+4475956,2018-03-08 13:52:05,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.25,-114.00,868.300,53.214700,6.605400,7.4,,1.4,,HDOP,ttn_http_integration_v2
+4476053,2018-03-08 13:54:10,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-108.00,868.500,53.214600,6.605500,6.7,,1.4,,HDOP,ttn_http_integration_v2
+4476054,2018-03-08 13:54:10,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.50,-113.00,868.500,53.214600,6.605500,6.7,,1.4,,HDOP,ttn_http_integration_v2
+4476138,2018-03-08 13:56:15,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-114.00,867.900,53.214600,6.605400,14.3,,2.4,,HDOP,ttn_http_integration_v2
+4476139,2018-03-08 13:56:15,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.50,-112.00,867.900,53.214600,6.605400,14.3,,2.4,,HDOP,ttn_http_integration_v2
+4476227,2018-03-08 13:58:20,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.50,-113.00,868.100,53.214600,6.605500,15.9,,1.4,,HDOP,ttn_http_integration_v2
+4476228,2018-03-08 13:58:20,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.50,-118.00,868.100,53.214600,6.605500,15.9,,1.4,,HDOP,ttn_http_integration_v2
+4476322,2018-03-08 14:00:25,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.50,-109.00,868.300,53.214600,6.605400,10.6,,1.2,,HDOP,ttn_http_integration_v2
+4476323,2018-03-08 14:00:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.75,-109.00,868.300,53.214600,6.605400,10.6,,1.2,,HDOP,ttn_http_integration_v2
+4476404,2018-03-08 14:02:30,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.00,-113.00,867.100,53.214400,6.605100,8.7,,1.9,,HDOP,ttn_http_integration_v2
+4476405,2018-03-08 14:02:30,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.00,-113.00,867.100,53.214400,6.605100,8.7,,1.9,,HDOP,ttn_http_integration_v2
+4476579,2018-03-08 14:06:40,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.00,-115.00,868.100,53.214600,6.605500,7.7,,2.4,,HDOP,ttn_http_integration_v2
+4476580,2018-03-08 14:06:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.00,-112.00,868.100,53.214600,6.605500,7.7,,2.4,,HDOP,ttn_http_integration_v2
+4476685,2018-03-08 14:08:45,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.20,-113.00,867.300,53.214600,6.605400,7.9,,2.0,,HDOP,ttn_http_integration_v2
+4476875,2018-03-08 14:12:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.80,-108.00,868.500,53.214700,6.605400,10.2,,1.1,,HDOP,ttn_http_integration_v2
+4476876,2018-03-08 14:12:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-9.00,-113.00,868.500,53.214700,6.605400,10.2,,1.1,,HDOP,ttn_http_integration_v2
+4476998,2018-03-08 14:15:00,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.50,-113.00,867.500,53.214600,6.605400,8.8,,1.1,,HDOP,ttn_http_integration_v2
+4477093,2018-03-08 14:17:05,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.20,-113.00,868.100,53.214600,6.605400,7.9,,1.1,,HDOP,ttn_http_integration_v2
+4477094,2018-03-08 14:17:05,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.25,-117.00,868.100,53.214600,6.605400,7.9,,1.1,,HDOP,ttn_http_integration_v2
+4477183,2018-03-08 14:19:10,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.80,-107.00,868.300,53.214600,6.605500,1.6,,1.1,,HDOP,ttn_http_integration_v2
+4477184,2018-03-08 14:19:10,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.25,-111.00,868.300,53.214600,6.605500,1.6,,1.1,,HDOP,ttn_http_integration_v2
+4477541,2018-03-08 14:27:30,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.50,-113.00,867.900,53.214600,6.605500,7.1,,1.8,,HDOP,ttn_http_integration_v2
+4477651,2018-03-08 14:29:35,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.50,-111.00,868.300,53.214600,6.605500,11.1,,1.3,,HDOP,ttn_http_integration_v2
+4477791,2018-03-08 14:31:40,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.80,-106.00,868.500,53.214600,6.605400,4.4,,1.8,,HDOP,ttn_http_integration_v2
+4477897,2018-03-08 14:33:44,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.20,-114.00,867.100,53.214600,6.605400,3.7,,1.1,,HDOP,ttn_http_integration_v2
+4477898,2018-03-08 14:33:44,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,8.25,-111.00,867.100,53.214600,6.605400,3.7,,1.1,,HDOP,ttn_http_integration_v2
+4477994,2018-03-08 14:35:49,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-115.00,868.100,53.214600,6.605400,5.4,,1.1,,HDOP,ttn_http_integration_v2
+4477995,2018-03-08 14:35:49,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,7.00,-109.00,868.100,53.214600,6.605400,5.4,,1.1,,HDOP,ttn_http_integration_v2
+4478082,2018-03-08 14:37:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-111.00,868.300,53.214600,6.605400,2.5,,1.0,,HDOP,ttn_http_integration_v2
+4478195,2018-03-08 14:40:00,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-113.00,867.300,53.214600,6.605300,2.1,,1.1,,HDOP,ttn_http_integration_v2
+4478324,2018-03-08 14:42:04,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.75,-110.00,868.500,53.214600,6.605500,2.2,,1.5,,HDOP,ttn_http_integration_v2
+4478605,2018-03-08 14:46:14,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.80,-113.00,867.500,53.214700,6.605500,2.1,,1.5,,HDOP,ttn_http_integration_v2
+4478606,2018-03-08 14:46:14,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.75,-108.00,867.500,53.214700,6.605500,2.1,,1.5,,HDOP,ttn_http_integration_v2
+4478718,2018-03-08 14:48:19,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.80,-111.00,868.300,53.214700,6.605500,10.4,,1.0,,HDOP,ttn_http_integration_v2
+4478862,2018-03-08 14:50:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-108.00,868.500,53.214700,6.605500,2.5,,1.0,,HDOP,ttn_http_integration_v2
+4478863,2018-03-08 14:50:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.50,-107.00,868.500,53.214700,6.605500,2.5,,1.0,,HDOP,ttn_http_integration_v2
+4479078,2018-03-08 14:54:34,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-111.00,868.100,53.214600,6.605400,2.4,,1.0,,HDOP,ttn_http_integration_v2
+4479079,2018-03-08 14:54:34,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-117.00,868.100,53.214600,6.605400,2.4,,1.0,,HDOP,ttn_http_integration_v2
+4479217,2018-03-08 14:56:39,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.50,-108.00,868.300,53.214700,6.605400,9.6,,1.0,,HDOP,ttn_http_integration_v2
+4479218,2018-03-08 14:56:39,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.50,-113.00,868.300,53.214700,6.605400,9.6,,1.0,,HDOP,ttn_http_integration_v2
+4479334,2018-03-08 14:58:44,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.80,-114.00,867.900,53.214600,6.605400,5.6,,1.9,,HDOP,ttn_http_integration_v2
+4479446,2018-03-08 15:00:49,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.00,-115.00,868.500,53.214700,6.605400,6.3,,1.9,,HDOP,ttn_http_integration_v2
+4479563,2018-03-08 15:02:54,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-113.00,868.100,53.214600,6.605400,5.3,,2.3,,HDOP,ttn_http_integration_v2
+4479564,2018-03-08 15:02:54,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,5.50,-114.00,868.100,53.214600,6.605400,5.3,,2.3,,HDOP,ttn_http_integration_v2
+4479653,2018-03-08 15:04:59,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,0.00,-111.00,867.100,53.214700,6.605300,1.3,,1.9,,HDOP,ttn_http_integration_v2
+4479654,2018-03-08 15:04:59,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,6.50,-117.00,867.100,53.214700,6.605300,1.3,,1.9,,HDOP,ttn_http_integration_v2
+4479747,2018-03-08 15:07:04,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-4.80,-111.00,868.300,53.214700,6.605500,7.3,,2.3,,HDOP,ttn_http_integration_v2
+4479748,2018-03-08 15:07:04,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.00,-106.00,868.300,53.214700,6.605500,7.3,,2.3,,HDOP,ttn_http_integration_v2
+4479835,2018-03-08 15:09:09,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.00,-108.00,868.500,53.214600,6.605400,7.3,,2.0,,HDOP,ttn_http_integration_v2
+4479930,2018-03-08 15:11:14,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.00,-112.00,867.300,53.214600,6.605500,0.4,,2.0,,HDOP,ttn_http_integration_v2
+4480031,2018-03-08 15:13:19,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.80,-110.00,868.100,53.214600,6.605500,3.0,,1.9,,HDOP,ttn_http_integration_v2
+4480032,2018-03-08 15:13:19,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.00,-113.00,868.100,53.214600,6.605500,3.0,,1.9,,HDOP,ttn_http_integration_v2
+4480148,2018-03-08 15:15:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.20,-107.00,868.300,53.214600,6.605500,3.6,,1.9,,HDOP,ttn_http_integration_v2
+4480149,2018-03-08 15:15:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.25,-115.00,868.300,53.214600,6.605500,3.6,,1.9,,HDOP,ttn_http_integration_v2
+4480248,2018-03-08 15:17:29,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.80,-113.00,867.500,53.214500,6.605500,0.6,,1.9,,HDOP,ttn_http_integration_v2
+4480249,2018-03-08 15:17:29,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-3.75,-112.00,867.500,53.214500,6.605500,0.6,,1.9,,HDOP,ttn_http_integration_v2
+4480367,2018-03-08 15:19:34,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-12.20,-107.00,868.500,53.214500,6.605100,0.4,,3.1,,HDOP,ttn_http_integration_v2
+4480368,2018-03-08 15:19:34,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-6.75,-113.00,868.500,53.214500,6.605100,0.4,,3.1,,HDOP,ttn_http_integration_v2
+4480466,2018-03-08 15:21:39,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.80,-114.00,868.100,53.214500,6.605200,0.5,,3.2,,HDOP,ttn_http_integration_v2
+4480467,2018-03-08 15:21:39,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.25,-115.00,868.100,53.214500,6.605200,0.5,,3.2,,HDOP,ttn_http_integration_v2
+4480783,2018-03-08 15:27:54,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.80,-108.00,868.500,53.214600,6.605500,0.8,,1.6,,HDOP,ttn_http_integration_v2
+4481504,2018-03-08 15:48:44,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.00,-111.00,867.500,53.214600,6.605400,5.2,,1.5,,HDOP,ttn_http_integration_v2
+4481546,2018-03-08 15:50:48,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.80,-110.00,868.100,53.214600,6.605300,6.0,,1.1,,HDOP,ttn_http_integration_v2
+4481547,2018-03-08 15:50:48,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.50,-115.00,868.100,53.214600,6.605300,6.0,,1.1,,HDOP,ttn_http_integration_v2
+4481576,2018-03-08 15:52:53,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.50,-111.00,868.300,53.214500,6.605100,0.3,,1.1,,HDOP,ttn_http_integration_v2
+4481577,2018-03-08 15:52:53,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.75,-111.00,868.300,53.214500,6.605100,0.3,,1.1,,HDOP,ttn_http_integration_v2
+4481612,2018-03-08 15:54:58,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.50,-114.00,867.700,53.214500,6.605100,8.8,,1.0,,HDOP,ttn_http_integration_v2
+4481613,2018-03-08 15:54:58,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.50,-119.00,867.700,53.214500,6.605100,8.8,,1.0,,HDOP,ttn_http_integration_v2
+4481654,2018-03-08 15:57:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-12.80,-109.00,868.500,53.214500,6.605200,15.4,,1.0,,HDOP,ttn_http_integration_v2
+4481655,2018-03-08 15:57:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.25,-114.00,868.500,53.214500,6.605200,15.4,,1.0,,HDOP,ttn_http_integration_v2
+4481694,2018-03-08 15:59:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-2.80,-114.00,868.100,53.214600,6.605300,15.5,,1.0,,HDOP,ttn_http_integration_v2
+4481695,2018-03-08 15:59:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,3.25,-114.00,868.100,53.214600,6.605300,15.5,,1.0,,HDOP,ttn_http_integration_v2
+4481741,2018-03-08 16:01:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-112.00,867.900,53.214500,6.605400,6.8,,1.0,,HDOP,ttn_http_integration_v2
+4481742,2018-03-08 16:01:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.50,-117.00,867.900,53.214500,6.605400,6.8,,1.0,,HDOP,ttn_http_integration_v2
+4481788,2018-03-08 16:03:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-9.00,-107.00,868.300,53.214500,6.605500,6.5,,1.0,,HDOP,ttn_http_integration_v2
+4481789,2018-03-08 16:03:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-0.25,-108.00,868.300,53.214500,6.605500,6.5,,1.0,,HDOP,ttn_http_integration_v2
+4481821,2018-03-08 16:05:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-12.00,-108.00,868.500,53.214600,6.605500,1.5,,1.0,,HDOP,ttn_http_integration_v2
+4481822,2018-03-08 16:05:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.00,-114.00,868.500,53.214600,6.605500,1.5,,1.0,,HDOP,ttn_http_integration_v2
+4481910,2018-03-08 16:09:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-3.20,-114.00,868.100,53.214500,6.605400,10.4,,1.0,,HDOP,ttn_http_integration_v2
+4481911,2018-03-08 16:09:33,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,1.00,-116.00,868.100,53.214500,6.605400,10.4,,1.0,,HDOP,ttn_http_integration_v2
+4482090,2018-03-08 16:13:43,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-0.80,-110.00,867.300,53.214600,6.605500,0.3,,1.0,,HDOP,ttn_http_integration_v2
+4482408,2018-03-08 16:19:58,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-12.50,-102.00,867.500,53.214600,6.605500,6.8,,1.0,,HDOP,ttn_http_integration_v2
+4482409,2018-03-08 16:19:58,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-5.00,-110.00,867.500,53.214600,6.605500,6.8,,1.0,,HDOP,ttn_http_integration_v2
+4482522,2018-03-08 16:22:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-7.00,-108.00,868.300,53.214600,6.605500,3.9,,1.0,,HDOP,ttn_http_integration_v2
+4482523,2018-03-08 16:22:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,2.75,-112.00,868.300,53.214600,6.605500,3.9,,1.0,,HDOP,ttn_http_integration_v2
+4482625,2018-03-08 16:24:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-11.80,-107.00,868.500,53.214600,6.605400,4.9,,1.0,,HDOP,ttn_http_integration_v2
+4482847,2018-03-08 16:28:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.75,-118.00,868.100,53.214500,6.605300,13.0,,1.3,,HDOP,ttn_http_integration_v2
+4482848,2018-03-08 16:28:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.50,-114.00,868.100,53.214500,6.605300,13.0,,1.3,,HDOP,ttn_http_integration_v2
+4483018,2018-03-08 16:30:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-6.00,-108.00,868.300,53.214500,6.605400,13.3,,1.6,,HDOP,ttn_http_integration_v2
+4483019,2018-03-08 16:30:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.25,-115.00,868.300,53.214500,6.605400,13.3,,1.6,,HDOP,ttn_http_integration_v2
+4483181,2018-03-08 16:32:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-1.80,-114.00,867.900,53.214600,6.605400,10.4,,1.6,,HDOP,ttn_http_integration_v2
+4483182,2018-03-08 16:32:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.00,-120.00,867.900,53.214600,6.605400,10.4,,1.6,,HDOP,ttn_http_integration_v2
+4483723,2018-03-08 16:38:43,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,1.00,-113.00,867.100,53.214600,6.605600,3.1,,1.0,,HDOP,ttn_http_integration_v2
+4483724,2018-03-08 16:38:43,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,4.75,-114.00,867.100,53.214600,6.605600,3.1,,1.0,,HDOP,ttn_http_integration_v2
+4524951,2018-03-09 07:58:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-1.00,-117.00,868.100,53.214700,6.605500,3.6,,1.3,,HDOP,ttn_http_integration_v2
+4525206,2018-03-09 08:04:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,0.75,-111.00,867.500,53.214500,6.605200,1.4,,1.4,,HDOP,ttn_http_integration_v2
+4525276,2018-03-09 08:06:45,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-7.00,-114.00,868.500,53.214600,6.605600,2.3,,1.3,,HDOP,ttn_http_integration_v2
+4525358,2018-03-09 08:08:50,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,4.00,-113.00,867.700,53.214700,6.605400,3.3,,0.9,,HDOP,ttn_http_integration_v2
+4525448,2018-03-09 08:10:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-0.25,-114.00,868.100,53.214700,6.605500,4.7,,0.9,,HDOP,ttn_http_integration_v2
+4526009,2018-03-09 08:23:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-1.00,-117.00,868.100,53.214800,6.605500,2.7,,1.0,,HDOP,ttn_http_integration_v2
+4526111,2018-03-09 08:25:29,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-3.20,-112.00,867.500,53.214700,6.605800,0.5,,1.7,,HDOP,ttn_http_integration_v2
+4526112,2018-03-09 08:25:29,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-2.00,-95.00,867.500,53.214700,6.605800,0.5,,1.7,,HDOP,ttn_http_integration_v2
+4526209,2018-03-09 08:27:34,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.20,-111.00,868.300,53.214700,6.605600,4.2,,2.6,,HDOP,ttn_http_integration_v2
+4526210,2018-03-09 08:27:34,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.75,-102.00,868.300,53.214700,6.605600,4.2,,2.6,,HDOP,ttn_http_integration_v2
+4526327,2018-03-09 08:29:39,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.00,-112.00,867.700,53.214600,6.605600,5.0,,1.4,,HDOP,ttn_http_integration_v2
+4526328,2018-03-09 08:29:39,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.50,-105.00,867.700,53.214600,6.605600,5.0,,1.4,,HDOP,ttn_http_integration_v2
+4526509,2018-03-09 08:31:44,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-9.50,-108.00,868.500,53.214600,6.605500,6.8,,1.2,,HDOP,ttn_http_integration_v2
+4526510,2018-03-09 08:31:44,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.75,-105.00,868.500,53.214600,6.605500,6.8,,1.2,,HDOP,ttn_http_integration_v2
+4526685,2018-03-09 08:33:48,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.00,-112.00,867.900,53.214400,6.605400,9.5,,2.6,,HDOP,ttn_http_integration_v2
+4526686,2018-03-09 08:33:48,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.25,-106.00,867.900,53.214400,6.605400,9.5,,2.6,,HDOP,ttn_http_integration_v2
+4526819,2018-03-09 08:35:53,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.20,-111.00,868.100,53.214800,6.605200,9.5,,1.2,,HDOP,ttn_http_integration_v2
+4526820,2018-03-09 08:35:53,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.75,-105.00,868.100,53.214800,6.605200,9.5,,1.2,,HDOP,ttn_http_integration_v2
+4526948,2018-03-09 08:37:58,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-2.20,-112.00,867.100,53.214700,6.605600,10.1,,2.1,,HDOP,ttn_http_integration_v2
+4526949,2018-03-09 08:37:58,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.75,-102.00,867.100,53.214700,6.605600,10.1,,2.1,,HDOP,ttn_http_integration_v2
+4527099,2018-03-09 08:40:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.80,-111.00,868.300,53.214600,6.605500,6.9,,1.3,,HDOP,ttn_http_integration_v2
+4527284,2018-03-09 08:42:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.20,-111.00,867.300,53.214600,6.605300,6.0,,1.3,,HDOP,ttn_http_integration_v2
+4527392,2018-03-09 08:44:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-11.00,-108.00,868.500,53.214600,6.605500,3.8,,1.8,,HDOP,ttn_http_integration_v2
+4527393,2018-03-09 08:44:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.75,-103.00,868.500,53.214600,6.605500,3.8,,1.8,,HDOP,ttn_http_integration_v2
+4527753,2018-03-09 08:50:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.80,-113.00,867.700,53.214600,6.605500,1.9,,1.3,,HDOP,ttn_http_integration_v2
+4527754,2018-03-09 08:50:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-101.00,867.700,53.214600,6.605500,1.9,,1.3,,HDOP,ttn_http_integration_v2
+4527893,2018-03-09 08:52:32,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.80,-109.00,868.300,53.214700,6.605300,3.2,,2.2,,HDOP,ttn_http_integration_v2
+4527894,2018-03-09 08:52:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,6.50,-102.00,868.300,53.214700,6.605300,3.2,,2.2,,HDOP,ttn_http_integration_v2
+4528035,2018-03-09 08:54:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.50,-113.00,867.900,53.214700,6.605500,5.8,,1.2,,HDOP,ttn_http_integration_v2
+4528036,2018-03-09 08:54:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.25,-103.00,867.900,53.214700,6.605500,5.8,,1.2,,HDOP,ttn_http_integration_v2
+4528161,2018-03-09 08:56:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,7.25,-105.00,868.500,53.214800,6.605400,7.0,,1.3,,HDOP,ttn_http_integration_v2
+4528285,2018-03-09 08:58:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-2.50,-112.00,867.100,53.214700,6.605400,8.8,,0.9,,HDOP,ttn_http_integration_v2
+4528286,2018-03-09 08:58:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,11.75,-102.00,867.100,53.214700,6.605400,8.8,,0.9,,HDOP,ttn_http_integration_v2
+4528415,2018-03-09 09:00:52,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.80,-113.00,868.100,53.214700,6.605300,12.5,,1.8,,HDOP,ttn_http_integration_v2
+4528543,2018-03-09 09:02:57,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-3.50,-111.00,867.300,53.214700,6.605400,14.9,,3.6,,HDOP,ttn_http_integration_v2
+4528673,2018-03-09 09:05:02,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.00,-111.00,868.300,53.214600,6.605300,12.2,,1.6,,HDOP,ttn_http_integration_v2
+4528674,2018-03-09 09:05:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.50,-103.00,868.300,53.214600,6.605300,12.2,,1.6,,HDOP,ttn_http_integration_v2
+4528805,2018-03-09 09:07:06,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.80,-113.00,867.500,53.214700,6.605300,11.0,,1.1,,HDOP,ttn_http_integration_v2
+4528806,2018-03-09 09:07:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,3.50,-102.00,867.500,53.214700,6.605300,11.0,,1.1,,HDOP,ttn_http_integration_v2
+4528971,2018-03-09 09:09:11,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.75,-103.00,868.500,53.214700,6.605400,12.4,,1.3,,HDOP,ttn_http_integration_v2
+4529106,2018-03-09 09:11:16,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-8.00,-113.00,867.700,53.214600,6.605500,9.8,,1.3,,HDOP,ttn_http_integration_v2
+4529107,2018-03-09 09:11:16,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.50,-102.00,867.700,53.214600,6.605500,9.8,,1.3,,HDOP,ttn_http_integration_v2
+4529245,2018-03-09 09:13:21,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.50,-111.00,868.100,53.214600,6.605500,10.4,,2.3,,HDOP,ttn_http_integration_v2
+4529246,2018-03-09 09:13:21,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,11.00,-103.00,868.100,53.214600,6.605500,10.4,,2.3,,HDOP,ttn_http_integration_v2
+4529410,2018-03-09 09:15:26,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-8.50,-113.00,867.900,53.214600,6.605500,2.1,,0.9,,HDOP,ttn_http_integration_v2
+4529411,2018-03-09 09:15:26,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-106.00,867.900,53.214600,6.605500,2.1,,0.9,,HDOP,ttn_http_integration_v2
+4530175,2018-03-09 09:27:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.80,-113.00,867.500,53.214600,6.605300,1.0,,1.4,,HDOP,ttn_http_integration_v2
+4530176,2018-03-09 09:27:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,0.25,-99.00,867.500,53.214600,6.605300,1.0,,1.4,,HDOP,ttn_http_integration_v2
+4530299,2018-03-09 09:30:00,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.00,-111.00,868.300,53.214600,6.605200,12.9,,1.2,,HDOP,ttn_http_integration_v2
+4530425,2018-03-09 09:32:05,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.50,-112.00,867.700,53.214600,6.605300,8.2,,1.9,,HDOP,ttn_http_integration_v2
+4530426,2018-03-09 09:32:05,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.25,-98.00,867.700,53.214600,6.605300,8.2,,1.9,,HDOP,ttn_http_integration_v2
+4530554,2018-03-09 09:34:10,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-12.50,-106.00,868.500,53.214700,6.605400,3.7,,1.1,,HDOP,ttn_http_integration_v2
+4530555,2018-03-09 09:34:10,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,6.25,-106.00,868.500,53.214700,6.605400,3.7,,1.1,,HDOP,ttn_http_integration_v2
+4530680,2018-03-09 09:36:15,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.00,-114.00,867.900,53.214900,6.605300,8.0,,1.1,,HDOP,ttn_http_integration_v2
+4530681,2018-03-09 09:36:15,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.00,-105.00,867.900,53.214900,6.605300,8.0,,1.1,,HDOP,ttn_http_integration_v2
+4530829,2018-03-09 09:38:20,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.20,-113.00,868.100,53.214600,6.605300,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4530830,2018-03-09 09:38:20,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-103.00,868.100,53.214600,6.605300,7.6,,1.1,,HDOP,ttn_http_integration_v2
+4530993,2018-03-09 09:40:25,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.00,-113.00,867.100,53.214700,6.605500,7.8,,1.2,,HDOP,ttn_http_integration_v2
+4530995,2018-03-09 09:40:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-101.00,867.100,53.214700,6.605500,7.8,,1.2,,HDOP,ttn_http_integration_v2
+4532054,2018-03-09 09:57:04,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.50,-113.00,867.900,53.214600,6.605300,0.1,,1.7,,HDOP,ttn_http_integration_v2
+4532055,2018-03-09 09:57:04,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.25,-106.00,867.900,53.214600,6.605300,0.1,,1.7,,HDOP,ttn_http_integration_v2
+4532177,2018-03-09 09:59:09,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.50,-105.00,868.500,53.214500,6.605300,8.4,,1.6,,HDOP,ttn_http_integration_v2
+4532178,2018-03-09 09:59:09,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.00,-107.00,868.500,53.214500,6.605300,8.4,,1.6,,HDOP,ttn_http_integration_v2
+4532311,2018-03-09 10:01:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.80,-111.00,867.100,53.214600,6.605500,7.3,,2.0,,HDOP,ttn_http_integration_v2
+4532312,2018-03-09 10:01:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.25,-102.00,867.100,53.214600,6.605500,7.3,,2.0,,HDOP,ttn_http_integration_v2
+4532583,2018-03-09 10:05:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-3.00,-111.00,867.300,53.214500,6.605300,3.3,,1.7,,HDOP,ttn_http_integration_v2
+4532766,2018-03-09 10:07:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-8.80,-108.00,868.300,53.214500,6.605400,9.5,,1.5,,HDOP,ttn_http_integration_v2
+4532767,2018-03-09 10:07:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-8.00,-107.00,868.300,53.214500,6.605400,9.5,,1.5,,HDOP,ttn_http_integration_v2
+4534383,2018-03-09 10:32:27,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.50,-111.00,868.300,53.214500,6.605200,1.3,,1.2,,HDOP,ttn_http_integration_v2
+4534384,2018-03-09 10:32:27,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-103.00,868.300,53.214500,6.605200,1.3,,1.2,,HDOP,ttn_http_integration_v2
+4534538,2018-03-09 10:34:32,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-8.00,-112.00,867.700,53.214500,6.605300,2.8,,1.1,,HDOP,ttn_http_integration_v2
+4534539,2018-03-09 10:34:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.25,-102.00,867.700,53.214500,6.605300,2.8,,1.1,,HDOP,ttn_http_integration_v2
+4534795,2018-03-09 10:38:41,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.20,-113.00,867.900,53.214500,6.605300,2.7,,1.1,,HDOP,ttn_http_integration_v2
+4534796,2018-03-09 10:38:41,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-107.00,867.900,53.214500,6.605300,2.7,,1.1,,HDOP,ttn_http_integration_v2
+4534928,2018-03-09 10:40:46,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.80,-109.00,868.100,53.214500,6.605300,19.9,,1.0,,HDOP,ttn_http_integration_v2
+4534929,2018-03-09 10:40:46,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-101.00,868.100,53.214500,6.605300,19.9,,1.0,,HDOP,ttn_http_integration_v2
+4535064,2018-03-09 10:42:51,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.80,-112.00,867.100,53.214500,6.605300,11.6,,1.0,,HDOP,ttn_http_integration_v2
+4535065,2018-03-09 10:42:51,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,11.25,-102.00,867.100,53.214500,6.605300,11.6,,1.0,,HDOP,ttn_http_integration_v2
+4535188,2018-03-09 10:44:56,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.20,-108.00,868.300,53.214500,6.605300,13.5,,1.1,,HDOP,ttn_http_integration_v2
+4535189,2018-03-09 10:44:56,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.50,-103.00,868.300,53.214500,6.605300,13.5,,1.1,,HDOP,ttn_http_integration_v2
+4535321,2018-03-09 10:47:01,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.80,-109.00,867.300,53.214500,6.605400,11.5,,1.0,,HDOP,ttn_http_integration_v2
+4535910,2018-03-09 10:57:25,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.80,-107.00,868.300,53.214700,6.605400,5.4,,1.0,,HDOP,ttn_http_integration_v2
+4535911,2018-03-09 10:57:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,4.50,-95.00,868.300,53.214700,6.605400,5.4,,1.0,,HDOP,ttn_http_integration_v2
+4536028,2018-03-09 10:59:30,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.00,-112.00,867.900,53.214800,6.605300,5.5,,0.9,,HDOP,ttn_http_integration_v2
+4536029,2018-03-09 10:59:30,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.25,-105.00,867.900,53.214800,6.605300,5.5,,0.9,,HDOP,ttn_http_integration_v2
+4536143,2018-03-09 11:01:35,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-11.00,-107.00,868.500,53.214600,6.605300,7.4,,1.1,,HDOP,ttn_http_integration_v2
+4536144,2018-03-09 11:01:35,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,4.50,-105.00,868.500,53.214600,6.605300,7.4,,1.1,,HDOP,ttn_http_integration_v2
+4536263,2018-03-09 11:03:40,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-2.20,-112.00,867.100,53.214600,6.605400,6.5,,1.1,,HDOP,ttn_http_integration_v2
+4536264,2018-03-09 11:03:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.25,-103.00,867.100,53.214600,6.605400,6.5,,1.1,,HDOP,ttn_http_integration_v2
+4536376,2018-03-09 11:05:45,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.50,-112.00,868.100,53.214500,6.605400,9.5,,1.0,,HDOP,ttn_http_integration_v2
+4536377,2018-03-09 11:05:45,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.75,-105.00,868.100,53.214500,6.605400,9.5,,1.0,,HDOP,ttn_http_integration_v2
+4536488,2018-03-09 11:07:50,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.80,-111.00,867.300,53.214600,6.605500,3.9,,1.0,,HDOP,ttn_http_integration_v2
+4537058,2018-03-09 11:20:19,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.80,-113.00,867.900,53.214600,6.605400,3.9,,1.1,,HDOP,ttn_http_integration_v2
+4537059,2018-03-09 11:20:19,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,6.25,-105.00,867.900,53.214600,6.605400,3.9,,1.1,,HDOP,ttn_http_integration_v2
+4537136,2018-03-09 11:22:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.20,-106.00,868.300,53.214600,6.605200,2.3,,1.1,,HDOP,ttn_http_integration_v2
+4537137,2018-03-09 11:22:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,7.50,-103.00,868.300,53.214600,6.605200,2.3,,1.1,,HDOP,ttn_http_integration_v2
+4537753,2018-03-09 11:39:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-11.20,-107.00,868.500,53.214400,6.605300,7.0,,1.5,,HDOP,ttn_http_integration_v2
+4537754,2018-03-09 11:39:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,6.75,-100.00,868.500,53.214400,6.605300,7.0,,1.5,,HDOP,ttn_http_integration_v2
+4537833,2018-03-09 11:41:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.20,-112.00,867.900,53.214800,6.605200,11.3,,3.2,,HDOP,ttn_http_integration_v2
+4537834,2018-03-09 11:41:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-105.00,867.900,53.214800,6.605200,11.3,,3.2,,HDOP,ttn_http_integration_v2
+4537896,2018-03-09 11:43:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.20,-111.00,868.100,53.214800,6.605300,14.5,,1.5,,HDOP,ttn_http_integration_v2
+4537897,2018-03-09 11:43:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.25,-106.00,868.100,53.214800,6.605300,14.5,,1.5,,HDOP,ttn_http_integration_v2
+4537963,2018-03-09 11:45:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-2.20,-111.00,867.100,53.214800,6.605300,17.2,,3.0,,HDOP,ttn_http_integration_v2
+4537964,2018-03-09 11:45:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-102.00,867.100,53.214800,6.605300,17.2,,3.0,,HDOP,ttn_http_integration_v2
+4538035,2018-03-09 11:47:22,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.80,-108.00,868.300,53.214600,6.605600,16.0,,1.5,,HDOP,ttn_http_integration_v2
+4538036,2018-03-09 11:47:22,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.75,-105.00,868.300,53.214600,6.605600,16.0,,1.5,,HDOP,ttn_http_integration_v2
+4538184,2018-03-09 11:51:32,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.80,-108.00,868.500,53.214500,6.605400,14.7,,2.8,,HDOP,ttn_http_integration_v2
+4538185,2018-03-09 11:51:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.25,-103.00,868.500,53.214500,6.605400,14.7,,2.8,,HDOP,ttn_http_integration_v2
+4538266,2018-03-09 11:53:37,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.00,-113.00,867.500,53.214500,6.605500,15.6,,2.7,,HDOP,ttn_http_integration_v2
+4538267,2018-03-09 11:53:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-3.50,-98.00,867.500,53.214500,6.605500,15.6,,2.7,,HDOP,ttn_http_integration_v2
+4538340,2018-03-09 11:55:42,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.00,-113.00,868.100,53.214400,6.605600,14.3,,2.6,,HDOP,ttn_http_integration_v2
+4538341,2018-03-09 11:55:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.00,-103.00,868.100,53.214400,6.605600,14.3,,2.6,,HDOP,ttn_http_integration_v2
+4538412,2018-03-09 11:57:47,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.20,-112.00,867.700,53.214600,6.605600,5.4,,2.5,,HDOP,ttn_http_integration_v2
+4538413,2018-03-09 11:57:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-105.00,867.700,53.214600,6.605600,5.4,,2.5,,HDOP,ttn_http_integration_v2
+4540101,2018-03-09 12:51:54,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-1.80,-111.00,867.300,53.214600,6.605400,0.7,,1.9,,HDOP,ttn_http_integration_v2
+4540167,2018-03-09 12:53:59,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.80,-106.00,868.500,53.214600,6.605600,3.6,,1.2,,HDOP,ttn_http_integration_v2
+4540168,2018-03-09 12:53:59,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,4.75,-105.00,868.500,53.214600,6.605600,3.6,,1.2,,HDOP,ttn_http_integration_v2
+4540225,2018-03-09 12:56:03,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.20,-112.00,867.500,53.214600,6.605700,1.4,,1.1,,HDOP,ttn_http_integration_v2
+4540226,2018-03-09 12:56:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,0.75,-102.00,867.500,53.214600,6.605700,1.4,,1.1,,HDOP,ttn_http_integration_v2
+4540294,2018-03-09 12:58:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.00,-109.00,868.100,53.214600,6.605600,1.0,,1.1,,HDOP,ttn_http_integration_v2
+4540295,2018-03-09 12:58:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,10.75,-107.00,868.100,53.214600,6.605600,1.0,,1.1,,HDOP,ttn_http_integration_v2
+4540355,2018-03-09 13:00:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.80,-111.00,867.700,53.214600,6.605500,5.2,,1.2,,HDOP,ttn_http_integration_v2
+4540356,2018-03-09 13:00:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.75,-103.00,867.700,53.214600,6.605500,5.2,,1.2,,HDOP,ttn_http_integration_v2
+4540418,2018-03-09 13:02:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-6.20,-109.00,868.300,53.214600,6.605400,18.3,,1.2,,HDOP,ttn_http_integration_v2
+4540419,2018-03-09 13:02:18,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.50,-105.00,868.300,53.214600,6.605400,18.3,,1.2,,HDOP,ttn_http_integration_v2
+4540489,2018-03-09 13:04:23,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.00,-112.00,867.900,53.214500,6.605400,12.4,,1.1,,HDOP,ttn_http_integration_v2
+4540490,2018-03-09 13:04:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,7.75,-107.00,867.900,53.214500,6.605400,12.4,,1.1,,HDOP,ttn_http_integration_v2
+4540690,2018-03-09 13:10:38,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.00,-113.00,868.100,53.214600,6.605400,5.6,,1.2,,HDOP,ttn_http_integration_v2
+4540691,2018-03-09 13:10:38,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.50,-105.00,868.100,53.214600,6.605400,5.6,,1.2,,HDOP,ttn_http_integration_v2
+4540760,2018-03-09 13:12:43,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.20,-111.00,867.300,53.214500,6.605300,2.5,,4.7,,HDOP,ttn_http_integration_v2
+4541231,2018-03-09 13:25:12,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.50,-112.00,867.900,53.214600,6.605500,1.2,,1.0,,HDOP,ttn_http_integration_v2
+4541233,2018-03-09 13:25:12,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.75,-107.00,867.900,53.214600,6.605500,1.2,,1.0,,HDOP,ttn_http_integration_v2
+4542615,2018-03-09 13:56:25,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.00,-105.00,868.500,53.214600,6.605600,3.2,,0.9,,HDOP,ttn_http_integration_v2
+4542616,2018-03-09 13:56:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.25,-107.00,868.500,53.214600,6.605600,3.2,,0.9,,HDOP,ttn_http_integration_v2
+4542770,2018-03-09 14:00:35,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-4.20,-111.00,868.100,53.214600,6.605500,0.5,,1.2,,HDOP,ttn_http_integration_v2
+4542771,2018-03-09 14:00:35,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,8.75,-106.00,868.100,53.214600,6.605500,0.5,,1.2,,HDOP,ttn_http_integration_v2
+4542923,2018-03-09 14:04:44,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.20,-111.00,868.300,53.214600,6.605500,0.4,,1.1,,HDOP,ttn_http_integration_v2
+4542924,2018-03-09 14:04:44,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,4.25,-103.00,868.300,53.214600,6.605500,0.4,,1.1,,HDOP,ttn_http_integration_v2
+4543412,2018-03-09 14:17:14,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-8.20,-109.00,868.300,53.214700,6.605500,2.1,,4.1,,HDOP,ttn_http_integration_v2
+4543502,2018-03-09 14:19:19,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,-8.00,-96.00,867.500,53.214700,6.605400,5.2,,1.8,,HDOP,ttn_http_integration_v2
+4543503,2018-03-09 14:19:19,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.50,-113.00,867.500,53.214700,6.605400,5.2,,1.8,,HDOP,ttn_http_integration_v2
+4543599,2018-03-09 14:21:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-10.80,-105.00,868.500,53.214600,6.605400,6.9,,1.1,,HDOP,ttn_http_integration_v2
+4543600,2018-03-09 14:21:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,5.50,-106.00,868.500,53.214600,6.605400,6.9,,1.1,,HDOP,ttn_http_integration_v2
+4543695,2018-03-09 14:23:28,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-7.00,-113.00,867.700,53.214600,6.605500,4.6,,1.1,,HDOP,ttn_http_integration_v2
+4543696,2018-03-09 14:23:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,6.50,-103.00,867.700,53.214600,6.605500,4.6,,1.1,,HDOP,ttn_http_integration_v2
+4543820,2018-03-09 14:25:33,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF8BW125,-5.00,-111.00,868.100,53.214600,6.605500,8.1,,1.5,,HDOP,ttn_http_integration_v2
+4543821,2018-03-09 14:25:33,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF8BW125,9.00,-104.00,868.100,53.214600,6.605500,8.1,,1.5,,HDOP,ttn_http_integration_v2
+4633589,2018-03-13 07:56:13,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-8.00,-113.00,867.500,53.214800,6.605800,4.7,,1.0,,HDOP,ttn_http_integration_v2
+4633623,2018-03-13 07:58:18,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.50,-109.00,868.300,53.214600,6.605600,3.8,,1.1,,HDOP,ttn_http_integration_v2
+4633650,2018-03-13 08:00:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.50,-114.00,868.500,53.214700,6.605500,4.0,,0.9,,HDOP,ttn_http_integration_v2
+4634564,2018-03-13 08:56:43,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.80,-105.00,868.500,53.214900,6.605300,1.1,,1.3,,HDOP,ttn_http_integration_v2
+4634566,2018-03-13 08:56:43,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-7.75,-115.00,868.500,53.214900,6.605300,1.1,,1.3,,HDOP,ttn_http_integration_v2
+4634590,2018-03-13 08:58:48,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-113.00,867.500,53.214700,6.605600,0.4,,1.7,,HDOP,ttn_http_integration_v2
+4634610,2018-03-13 09:00:53,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.75,-118.00,868.100,53.214700,6.605400,0.4,,2.6,,HDOP,ttn_http_integration_v2
+4634629,2018-03-13 09:02:58,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.00,-111.00,868.300,53.214800,6.605400,1.2,,2.6,,HDOP,ttn_http_integration_v2
+4634682,2018-03-13 09:07:09,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.00,-108.00,868.500,53.214700,6.605500,3.0,,1.3,,HDOP,ttn_http_integration_v2
+4634683,2018-03-13 09:07:09,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.25,-114.00,868.500,53.214700,6.605500,3.0,,1.3,,HDOP,ttn_http_integration_v2
+4634694,2018-03-13 09:09:14,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-6.75,-120.00,868.100,53.214700,6.605400,3.8,,1.4,,HDOP,ttn_http_integration_v2
+4634723,2018-03-13 09:11:19,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-10.20,-114.00,867.900,53.214700,6.605500,3.8,,1.1,,HDOP,ttn_http_integration_v2
+4634724,2018-03-13 09:11:19,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-4.50,-119.00,867.900,53.214700,6.605500,3.8,,1.1,,HDOP,ttn_http_integration_v2
+4634747,2018-03-13 09:13:24,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.00,-111.00,868.300,53.214900,6.605400,9.0,,1.1,,HDOP,ttn_http_integration_v2
+4634748,2018-03-13 09:13:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-8.25,-115.00,868.300,53.214900,6.605400,9.0,,1.1,,HDOP,ttn_http_integration_v2
+4634769,2018-03-13 09:15:29,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-8.75,-115.00,868.500,53.214800,6.605400,5.8,,1.7,,HDOP,ttn_http_integration_v2
+4634791,2018-03-13 09:17:34,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,0.25,-111.00,867.100,53.214800,6.605400,16.3,,1.7,,HDOP,ttn_http_integration_v2
+4634819,2018-03-13 09:19:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-9.50,-120.00,868.100,53.214900,6.605400,16.5,,1.8,,HDOP,ttn_http_integration_v2
+4634867,2018-03-13 09:21:45,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.50,-113.00,868.300,53.214800,6.605400,15.7,,1.1,,HDOP,ttn_http_integration_v2
+4634932,2018-03-13 09:25:55,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-14.00,-106.00,868.500,53.214700,6.605600,6.2,,1.1,,HDOP,ttn_http_integration_v2
+4634933,2018-03-13 09:25:55,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-4.25,-115.00,868.500,53.214700,6.605600,6.2,,1.1,,HDOP,ttn_http_integration_v2
+4635197,2018-03-13 09:36:21,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-1.50,-118.00,867.700,53.214700,6.605500,2.9,,1.7,,HDOP,ttn_http_integration_v2
+4635293,2018-03-13 09:38:26,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-2.00,-120.00,868.100,53.214700,6.605600,1.0,,1.8,,HDOP,ttn_http_integration_v2
+4635350,2018-03-13 09:40:31,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,LORA,SF9BW125,-13.80,-109.00,868.300,53.214700,6.605500,3.9,,1.6,,HDOP,ttn_http_integration_v2
+4635351,2018-03-13 09:40:31,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-8.50,-114.00,868.300,53.214700,6.605500,3.9,,1.6,,HDOP,ttn_http_integration_v2
+4635413,2018-03-13 09:42:36,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-7.75,-121.00,867.900,53.214700,6.605600,1.9,,1.7,,HDOP,ttn_http_integration_v2
+4636729,2018-03-13 10:34:46,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-4.75,-119.00,868.100,53.214600,6.605500,3.3,,1.0,,HDOP,ttn_http_integration_v2
+4636845,2018-03-13 10:38:56,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-5.75,-118.00,867.700,53.214600,6.605300,3.0,,1.0,,HDOP,ttn_http_integration_v2
+4636932,2018-03-13 10:41:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-6.00,-115.00,868.500,53.214700,6.605400,2.0,,1.0,,HDOP,ttn_http_integration_v2
+4637035,2018-03-13 10:43:06,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,-5.75,-120.00,868.100,53.214700,6.605400,3.7,,1.2,,HDOP,ttn_http_integration_v2
+4638781,2018-03-13 11:22:45,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF9BW125,8.00,-111.00,867.100,53.214800,6.605300,5.9,,2.0,,HDOP,ttn_http_integration_v2
+4657732,2018-03-14 09:21:27,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-1.25,-112.00,868.300,53.214500,6.605400,1.1,,2.7,,HDOP,ttn_http_integration_v2
+4658035,2018-03-14 09:48:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,5.25,-110.00,867.700,53.214600,6.605500,10.0,,1.6,,HDOP,ttn_http_integration_v2
+4658047,2018-03-14 09:50:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,0.25,-112.00,868.500,53.214700,6.605600,3.4,,1.6,,HDOP,ttn_http_integration_v2
+4658065,2018-03-14 09:54:47,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,3.25,-113.00,868.100,53.214400,6.604900,1.5,,1.6,,HDOP,ttn_http_integration_v2
+4658073,2018-03-14 09:56:52,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,3.75,-115.00,867.100,53.214600,6.605800,2.4,,1.5,,HDOP,ttn_http_integration_v2
+4658104,2018-03-14 09:58:57,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-2.00,-109.00,868.300,53.214700,6.605400,1.1,,1.5,,HDOP,ttn_http_integration_v2
+4658155,2018-03-14 10:01:02,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,4.75,-113.00,867.300,53.214600,6.606000,0.5,,4.4,,HDOP,ttn_http_integration_v2
+4658251,2018-03-14 10:07:17,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,0.50,-114.00,868.100,53.214600,6.605600,1.4,,4.2,,HDOP,ttn_http_integration_v2
+4658262,2018-03-14 10:09:22,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,5.00,-111.00,867.700,53.214600,6.605200,1.4,,4.2,,HDOP,ttn_http_integration_v2
+4658276,2018-03-14 10:11:27,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-2.25,-113.00,868.300,53.214500,6.605100,1.3,,1.5,,HDOP,ttn_http_integration_v2
+4658291,2018-03-14 10:13:32,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,2.75,-115.00,867.900,53.214500,6.605400,1.2,,1.5,,HDOP,ttn_http_integration_v2
+4658298,2018-03-14 10:15:37,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-0.25,-111.00,868.500,53.214500,6.605400,1.0,,1.3,,HDOP,ttn_http_integration_v2
+4658308,2018-03-14 10:17:42,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.75,-115.00,867.100,53.214500,6.605200,0.4,,1.5,,HDOP,ttn_http_integration_v2
+4658444,2018-03-14 10:32:17,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,2.00,-115.00,868.100,53.214600,6.605300,0.5,,1.1,,HDOP,ttn_http_integration_v2
+4658475,2018-03-14 10:34:23,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.75,-117.00,867.900,53.214700,6.605300,0.2,,1.1,,HDOP,ttn_http_integration_v2
+4658511,2018-03-14 10:36:28,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,0.00,-114.00,868.300,53.214700,6.605300,1.9,,1.1,,HDOP,ttn_http_integration_v2
+4658554,2018-03-14 10:38:33,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,4.50,-113.00,867.100,53.214600,6.605400,5.5,,1.1,,HDOP,ttn_http_integration_v2
+4658604,2018-03-14 10:40:38,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-1.50,-114.00,868.500,53.214600,6.605600,6.0,,1.0,,HDOP,ttn_http_integration_v2
+4658708,2018-03-14 10:44:48,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,2.00,-115.00,868.100,53.214600,6.605600,2.2,,1.0,,HDOP,ttn_http_integration_v2
+4658821,2018-03-14 10:48:58,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-4.25,-114.00,868.300,53.214700,6.605400,5.5,,1.2,,HDOP,ttn_http_integration_v2
+4658895,2018-03-14 10:51:03,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-0.25,-113.00,867.700,53.214700,6.605600,5.0,,1.6,,HDOP,ttn_http_integration_v2
+4658974,2018-03-14 10:55:13,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,4.25,-114.00,867.900,53.214400,6.605400,0.2,,1.6,,HDOP,ttn_http_integration_v2
+4660791,2018-03-14 12:26:54,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.25,-117.00,867.300,53.214700,6.605700,0.6,,2.1,,HDOP,ttn_http_integration_v2
+4661245,2018-03-14 12:39:24,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-1.00,-119.00,867.900,53.214600,6.605700,0.9,,1.2,,HDOP,ttn_http_integration_v2
+4661257,2018-03-14 12:41:29,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-3.75,-115.00,868.300,53.214600,6.605700,3.3,,2.0,,HDOP,ttn_http_integration_v2
+4661268,2018-03-14 12:43:34,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,2.75,-115.00,867.100,53.214700,6.605700,5.2,,1.1,,HDOP,ttn_http_integration_v2
+4661282,2018-03-14 12:45:39,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-7.75,-113.00,868.500,53.214600,6.605600,7.8,,1.2,,HDOP,ttn_http_integration_v2
+4661303,2018-03-14 12:47:44,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-3.50,-115.00,867.300,53.214500,6.605300,7.2,,2.0,,HDOP,ttn_http_integration_v2
+4661327,2018-03-14 12:49:49,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-3.50,-117.00,868.100,53.214400,6.604500,9.1,,4.8,,HDOP,ttn_http_integration_v2
+4661390,2018-03-14 12:56:04,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,0.00,-118.00,867.700,53.214700,6.605600,2.5,,1.0,,HDOP,ttn_http_integration_v2
+4661581,2018-03-14 13:14:49,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.50,-118.00,868.100,53.214600,6.605600,0.2,,1.0,,HDOP,ttn_http_integration_v2
+4662997,2018-03-14 14:13:10,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-4.25,-115.00,868.500,53.214600,6.605500,2.2,,1.0,,HDOP,ttn_http_integration_v2
+4663208,2018-03-14 14:19:25,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.00,-114.00,867.700,53.214600,6.605400,1.7,,1.5,,HDOP,ttn_http_integration_v2
+4663307,2018-03-14 14:21:30,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-4.75,-119.00,868.300,53.214600,6.605500,1.0,,2.1,,HDOP,ttn_http_integration_v2
+4663406,2018-03-14 14:23:35,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-0.50,-119.00,867.900,53.214800,6.605200,5.9,,2.2,,HDOP,ttn_http_integration_v2
+4663503,2018-03-14 14:25:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,-3.75,-115.00,868.500,53.214700,6.605600,4.1,,1.0,,HDOP,ttn_http_integration_v2
+4663577,2018-03-14 14:27:45,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.50,-118.00,867.100,53.214700,6.605600,1.8,,1.0,,HDOP,ttn_http_integration_v2
+4663693,2018-03-14 14:29:50,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,LORA,SF7BW125,1.50,-117.00,868.100,53.214700,6.605500,0.5,,1.1,,HDOP,ttn_http_integration_v2
+4697357,2018-03-15 07:55:56,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF7BW125,-7.50,-115.00,868.500,53.214554,6.606219,41.0,11.43,,,fused,Android6.0.1 App30:2018.03.04
+4732748,2018-03-16 07:55:08,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF7BW125,-7.20,-112.00,868.100,53.214180,6.605669,51.0,10.00,,,fused,Android6.0.1 App30:2018.03.04
+4732749,2018-03-16 07:55:08,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF7BW125,-0.25,-112.00,868.100,53.214180,6.605669,51.0,10.00,,,fused,Android6.0.1 App30:2018.03.04
+4811335,2018-03-19 07:54:34,expand-ttn-dev2,expand-avr,5CCF7FFFFF0B0B04,,SF7BW125,9.00,-55.00,868.100,53.214487,6.606290,43.0,10.00,,,fused,Android6.0.1 App30:2018.03.04
+4811336,2018-03-19 07:54:34,expand-ttn-dev2,expand-avr,30AEA4FFFF6EF3E0,,SF7BW125,9.00,-57.00,868.100,53.214487,6.606290,43.0,10.00,,,fused,Android6.0.1 App30:2018.03.04
+4811337,2018-03-19 07:54:34,expand-ttn-dev2,expand-avr,1DEE14C023A29145,,SF7BW125,-0.80,-116.00,868.100,53.214487,6.606290,43.0,10.00,,,fused,Android6.0.1 App30:2018.03.04
+4811351,2018-03-19 07:56:41,expand-ttn-dev2,expand-avr,1DEE14C023A29145,,SF7BW125,-7.00,-109.00,868.300,53.214680,6.605726,40.0,10.78,,,fused,Android6.0.1 App30:2018.03.04
+4811366,2018-03-19 07:58:47,expand-ttn-dev2,expand-avr,1DEE14C023A29145,,SF7BW125,-0.50,-117.00,868.500,53.214656,6.605712,0.0,11.63,,,fused,Android6.0.1 App30:2018.03.04
+4811381,2018-03-19 08:00:52,expand-ttn-dev2,expand-avr,1DEE14C023A29145,,SF7BW125,1.20,-113.00,868.100,53.214669,6.605728,40.0,10.51,,,fused,Android6.0.1 App30:2018.03.04
+4811382,2018-03-19 08:00:52,expand-ttn-dev2,expand-avr,30AEA4FFFF6EF3E0,,SF7BW125,9.00,-58.00,868.100,53.214669,6.605728,40.0,10.51,,,fused,Android6.0.1 App30:2018.03.04
+4811383,2018-03-19 08:00:52,expand-ttn-dev2,expand-avr,5CCF7FFFFF0B0B04,,SF7BW125,8.00,-59.00,868.100,53.214669,6.605728,40.0,10.51,,,fused,Android6.0.1 App30:2018.03.04
+5147438,2018-03-28 07:11:04,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,0.75,-114.00,868.100,53.214703,6.605767,40.5,10.59,,,fused,Android6.0.1 App31:2018.03.21
+5147439,2018-03-28 07:11:04,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,0.75,-114.00,868.100,53.214703,6.605767,40.5,10.59,,,fused,Android6.0.1 App31:2018.03.21
+5147565,2018-03-28 07:15:09,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,-0.50,-116.00,868.100,53.214685,6.605762,40.5,10.17,,,fused,Android6.0.1 App31:2018.03.21
+5147566,2018-03-28 07:15:09,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,-0.50,-116.00,868.100,53.214685,6.605762,40.5,10.17,,,fused,Android6.0.1 App31:2018.03.21
+5147657,2018-03-28 07:19:16,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,-4.00,-115.00,868.100,53.214697,6.605762,40.5,10.71,,,fused,Android6.0.1 App31:2018.03.21
+5147658,2018-03-28 07:19:16,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,-4.00,-115.00,868.100,53.214697,6.605762,40.5,10.71,,,fused,Android6.0.1 App31:2018.03.21
+5147659,2018-03-28 07:19:16,expand-ttn-dev2,expand-avr,tbdev-tbb-groningen,,SF7BW125,-4.00,-115.00,868.100,53.214697,6.605762,40.5,10.71,,,fused,Android6.0.1 App31:2018.03.21
+5183672,2018-03-29 06:46:40,expand-ttn-dev,expand-rfm95,tbdev-tbb-groningen,,SF7BW125,-3.50,-108.00,867.500,53.214102,6.605377,46.0,10.00,,,fused,Android6.0.1 App31:2018.03.21
+5183673,2018-03-29 06:46:40,expand-ttn-dev,expand-rfm95,1DEE140FF63441E5,,SF7BW125,-3.20,-110.00,867.500,53.214102,6.605377,46.0,10.00,,,fused,Android6.0.1 App31:2018.03.21

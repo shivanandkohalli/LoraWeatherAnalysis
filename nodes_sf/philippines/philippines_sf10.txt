@@ -1,0 +1,9 @@
+3481689,2018-01-05 07:33:25,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,7.00,-30.00,868.300,14.584103,121.063451,128.3,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481690,2018-01-05 07:33:35,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,10.75,-28.00,867.700,14.584094,121.063446,141.7,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481692,2018-01-05 07:33:53,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,10.50,-28.00,867.100,14.584093,121.063460,144.7,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481693,2018-01-05 07:34:16,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,11.25,-29.00,868.300,14.584063,121.063472,44.2,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481694,2018-01-05 07:34:22,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,11.00,-28.00,867.700,14.584063,121.063440,44.1,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481695,2018-01-05 07:34:34,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,10.25,-30.00,868.100,14.584023,121.063418,44.1,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481696,2018-01-05 07:34:41,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,9.00,-31.00,868.300,14.583992,121.063362,44.1,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481697,2018-01-05 07:34:47,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,7.00,-28.00,867.500,14.583970,121.063325,44.1,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
+3481698,2018-01-05 07:34:59,ttn-mapper-ios,loratestbluedynamics1,blued018p,,SF10BW125,13.25,-29.00,867.100,14.583927,121.063300,44.1,32.00,,,ios,iOS 11.2.1 - org.ttnmapper.ios.TTNMapper:23
